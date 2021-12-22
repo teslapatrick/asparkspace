@@ -121,3 +121,5 @@ aomori_widgets:
   - archive #文章归档
 
 aomori_copyright: false # true or false
+
+copyright_201_principles: true
